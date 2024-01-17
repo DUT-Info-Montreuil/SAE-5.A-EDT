@@ -3,7 +3,7 @@
 # Gestionnaire EDT
 
 **Un site web d'édition d'emploi du temps pour IUT.**<br/>
-Réalisé dans le cadre d'une SAÉ ([Situation d'apprentissage et d'évaluation)](https://fr.wikipedia.org/wiki/Situation_d%27apprentissage_et_d%27%C3%A9valuation), ce projet a pour but de faciliter la planification et la création des cours.<br/>
+Réalisé dans le cadre d'une SAÉ ([Situation d'apprentissage et d'évaluation](https://fr.wikipedia.org/wiki/Situation_d%27apprentissage_et_d%27%C3%A9valuation)), ce projet a pour but de faciliter la planification et la création des cours.<br/>
 Gestionnaire d'EDT est découpé en trois dépôts : le front-end, l'API et la base de données (**le troisième repo sera créer lors de la semaine de refactor**).
 
 
@@ -31,10 +31,10 @@ En ajoutant *with-data*, l'application génère un jeu de données vous permetta
 
 ## 📆 Comment utiliser l'application ?
 
-Différents rôles existent au sein de l'application ; ceux-ci n'ont pas les mêmes privilèges. [*Veuillez vous référer à la documentation utilisateur pour en savoir plus*]()
+Différents rôles existent au sein de l'application ; ceux-ci n'ont pas les mêmes privilèges. [*Veuillez vous référer à la documentation utilisateur pour en savoir plus*](https://docs.google.com/document/d/1mIyfAiGCaOiNkratZB1sJQwlaXqPOmGm85j4HPjrAjk/edit?usp=sharing)
 
 > [!IMPORTANT]
-> Changer le mot de passe administrateur et la clé d'accès JWT conformément à ce qui est indiqué sur [le README de l'API **link vers la section en question**](https://github.com/DUT-Info-Montreuil/SAE-5.A-EDT-API)
+> Changer le mot de passe administrateur et la clé d'accès JWT conformément à ce qui est indiqué sur [le README de l'API](https://github.com/DUT-Info-Montreuil/SAE-5.A-EDT-API#-s%C3%A9curit%C3%A9)
 > **Cela ne sera plus nécessaire après la semaine de refactoring. Ces informations seront passées en variables d'environnement.**
 
 Par défaut (*si vous lancez l'application sans générer le jeu de données*), il n'existe qu'un utilisateur. Celui-ci possède le rôle d'administrateur.
@@ -50,7 +50,7 @@ Rôle | Login | Mot de passe
 **Enseignant** | gdelmas | aA123456789_
 **Etudiant** | hcohen | aA123456789_
 
-Pour obtenir plus d'informations sur le fonctionnement du site web, veuillez consulter la [documentation utilisateur]()
+Pour obtenir plus d'informations sur le fonctionnement du site web, veuillez consulter la [documentation utilisateur](https://docs.google.com/document/d/1mIyfAiGCaOiNkratZB1sJQwlaXqPOmGm85j4HPjrAjk/edit?usp=sharing)
 
 ## 🔗 Liens
 
