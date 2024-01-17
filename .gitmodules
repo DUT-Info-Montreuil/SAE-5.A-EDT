@@ -1,0 +1,6 @@
+[submodule "SAE-5.A-EDT-Front"]
+	path = SAE-5.A-EDT-Front
+	url = https://github.com/DUT-Info-Montreuil/SAE-5.A-EDT-Front.git
+[submodule "SAE-5.A-EDT-API"]
+	path = SAE-5.A-EDT-API
+	url = https://github.com/DUT-Info-Montreuil/SAE-5.A-EDT-API.git
